@@ -7,3 +7,4 @@
 *.docx
 *.pdf
 *.md
+!report.pdf
