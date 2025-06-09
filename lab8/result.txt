@@ -1,0 +1,100 @@
+thread num: 1
+parallel mode: 1
+data file: updated_flower.csv
+running time: 3227.28 ms
+
+thread num: 2
+parallel mode: 1
+data file: updated_flower.csv
+running time: 2744.82 ms
+
+thread num: 4
+parallel mode: 1
+data file: updated_flower.csv
+running time: 2456.63 ms
+
+thread num: 8
+parallel mode: 1
+data file: updated_flower.csv
+running time: 2054.42 ms
+
+thread num: 16
+parallel mode: 1
+data file: updated_flower.csv
+running time: 1610.71 ms
+
+thread num: 1
+parallel mode: 2
+data file: updated_flower.csv
+running time: 3041.58 ms
+
+thread num: 2
+parallel mode: 2
+data file: updated_flower.csv
+running time: 2066.19 ms
+
+thread num: 4
+parallel mode: 2
+data file: updated_flower.csv
+running time: 1263.68 ms
+
+thread num: 8
+parallel mode: 2
+data file: updated_flower.csv
+running time: 6435.23 ms
+
+thread num: 16
+parallel mode: 2
+data file: updated_flower.csv
+running time: 10209.7 ms
+
+thread num: 1
+parallel mode: 1
+data file: updated_mouse.csv
+running time: 2474.74 ms
+
+thread num: 2
+parallel mode: 1
+data file: updated_mouse.csv
+running time: 1478.86 ms
+
+thread num: 4
+parallel mode: 1
+data file: updated_mouse.csv
+running time: 911.64 ms
+
+thread num: 8
+parallel mode: 1
+data file: updated_mouse.csv
+running time: 932.829 ms
+
+thread num: 16
+parallel mode: 1
+data file: updated_mouse.csv
+running time: 920.053 ms
+
+thread num: 1
+parallel mode: 2
+data file: updated_mouse.csv
+running time: 2520.27 ms
+
+thread num: 2
+parallel mode: 2
+data file: updated_mouse.csv
+running time: 1693.25 ms
+
+thread num: 4
+parallel mode: 2
+data file: updated_mouse.csv
+running time: 1282.05 ms
+
+thread num: 8
+parallel mode: 2
+data file: updated_mouse.csv
+running time: 8067.77 ms
+
+thread num: 16
+parallel mode: 2
+data file: updated_mouse.csv
+running time: 13409.4 ms
+

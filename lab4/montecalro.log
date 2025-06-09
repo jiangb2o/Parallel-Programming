@@ -1,0 +1,245 @@
+
+
+=====number of threads: 1, point of sampling: 1024=====
+ans: 2.914062
+true ans: 3.141593
+acc: 92.76%
+running time: 0.0002 s
+
+
+=====number of threads: 1, point of sampling: 2048=====
+ans: 3.023438
+true ans: 3.141593
+acc: 96.24%
+running time: 0.0005 s
+
+
+=====number of threads: 1, point of sampling: 4096=====
+ans: 3.020508
+true ans: 3.141593
+acc: 96.15%
+running time: 0.0007 s
+
+
+=====number of threads: 1, point of sampling: 8192=====
+ans: 3.019043
+true ans: 3.141593
+acc: 96.10%
+running time: 0.0009 s
+
+
+=====number of threads: 1, point of sampling: 16384=====
+ans: 3.023438
+true ans: 3.141593
+acc: 96.24%
+running time: 0.0017 s
+
+
+=====number of threads: 1, point of sampling: 32768=====
+ans: 3.003418
+true ans: 3.141593
+acc: 95.60%
+running time: 0.0031 s
+
+
+=====number of threads: 1, point of sampling: 65536=====
+ans: 3.001526
+true ans: 3.141593
+acc: 95.54%
+running time: 0.0062 s
+
+
+=====number of threads: 2, point of sampling: 1024=====
+ans: 2.910156
+true ans: 3.141593
+acc: 92.63%
+running time: 0.0002 s
+
+
+=====number of threads: 2, point of sampling: 2048=====
+ans: 2.960938
+true ans: 3.141593
+acc: 94.25%
+running time: 0.0003 s
+
+
+=====number of threads: 2, point of sampling: 4096=====
+ans: 3.026367
+true ans: 3.141593
+acc: 96.33%
+running time: 0.0005 s
+
+
+=====number of threads: 2, point of sampling: 8192=====
+ans: 3.023926
+true ans: 3.141593
+acc: 96.25%
+running time: 0.0008 s
+
+
+=====number of threads: 2, point of sampling: 16384=====
+ans: 3.038330
+true ans: 3.141593
+acc: 96.71%
+running time: 0.0016 s
+
+
+=====number of threads: 2, point of sampling: 32768=====
+ans: 3.021729
+true ans: 3.141593
+acc: 96.18%
+running time: 0.0031 s
+
+
+=====number of threads: 2, point of sampling: 65536=====
+ans: 3.057312
+true ans: 3.141593
+acc: 97.32%
+running time: 0.0060 s
+
+
+=====number of threads: 4, point of sampling: 1024=====
+ans: 2.933594
+true ans: 3.141593
+acc: 93.38%
+running time: 0.0002 s
+
+
+=====number of threads: 4, point of sampling: 2048=====
+ans: 3.048828
+true ans: 3.141593
+acc: 97.05%
+running time: 0.0003 s
+
+
+=====number of threads: 4, point of sampling: 4096=====
+ans: 2.999023
+true ans: 3.141593
+acc: 95.46%
+running time: 0.0004 s
+
+
+=====number of threads: 4, point of sampling: 8192=====
+ans: 2.973633
+true ans: 3.141593
+acc: 94.65%
+running time: 0.0007 s
+
+
+=====number of threads: 4, point of sampling: 16384=====
+ans: 2.965332
+true ans: 3.141593
+acc: 94.39%
+running time: 0.0014 s
+
+
+=====number of threads: 4, point of sampling: 32768=====
+ans: 2.971924
+true ans: 3.141593
+acc: 94.60%
+running time: 0.0027 s
+
+
+=====number of threads: 4, point of sampling: 65536=====
+ans: 2.977905
+true ans: 3.141593
+acc: 94.79%
+running time: 0.0050 s
+
+
+=====number of threads: 8, point of sampling: 1024=====
+ans: 2.980469
+true ans: 3.141593
+acc: 94.87%
+running time: 0.0004 s
+
+
+=====number of threads: 8, point of sampling: 2048=====
+ans: 2.980469
+true ans: 3.141593
+acc: 94.87%
+running time: 0.0005 s
+
+
+=====number of threads: 8, point of sampling: 4096=====
+ans: 2.929688
+true ans: 3.141593
+acc: 93.25%
+running time: 0.0005 s
+
+
+=====number of threads: 8, point of sampling: 8192=====
+ans: 2.971191
+true ans: 3.141593
+acc: 94.58%
+running time: 0.0008 s
+
+
+=====number of threads: 8, point of sampling: 16384=====
+ans: 2.938477
+true ans: 3.141593
+acc: 93.53%
+running time: 0.0015 s
+
+
+=====number of threads: 8, point of sampling: 32768=====
+ans: 2.984375
+true ans: 3.141593
+acc: 95.00%
+running time: 0.0028 s
+
+
+=====number of threads: 8, point of sampling: 65536=====
+ans: 2.940979
+true ans: 3.141593
+acc: 93.61%
+running time: 0.0052 s
+
+
+=====number of threads: 16, point of sampling: 1024=====
+ans: 2.902344
+true ans: 3.141593
+acc: 92.38%
+running time: 0.0007 s
+
+
+=====number of threads: 16, point of sampling: 2048=====
+ans: 2.972656
+true ans: 3.141593
+acc: 94.62%
+running time: 0.0007 s
+
+
+=====number of threads: 16, point of sampling: 4096=====
+ans: 3.020508
+true ans: 3.141593
+acc: 96.15%
+running time: 0.0006 s
+
+
+=====number of threads: 16, point of sampling: 8192=====
+ans: 2.978027
+true ans: 3.141593
+acc: 94.79%
+running time: 0.0009 s
+
+
+=====number of threads: 16, point of sampling: 16384=====
+ans: 2.991455
+true ans: 3.141593
+acc: 95.22%
+running time: 0.0014 s
+
+
+=====number of threads: 16, point of sampling: 32768=====
+ans: 2.985107
+true ans: 3.141593
+acc: 95.02%
+running time: 0.0028 s
+
+
+=====number of threads: 16, point of sampling: 65536=====
+ans: 2.985535
+true ans: 3.141593
+acc: 95.03%
+running time: 0.0051 s

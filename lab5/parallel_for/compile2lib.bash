@@ -1,0 +1,1 @@
+g++ parallel_for.cpp -fPIC -shared -o libparallel.so -lpthread

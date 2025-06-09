@@ -1,0 +1,240 @@
+
+
+=====number of threads: 1, size of arr: 1 x 10 ^ 6=====
+ans: 5503823
+true ans: 5503823
+running time: 0.0023 s
+
+
+=====number of threads: 1, size of arr: 2 x 10 ^ 6=====
+ans: 11006454
+true ans: 11006454
+running time: 0.0038 s
+
+
+=====number of threads: 1, size of arr: 4 x 10 ^ 6=====
+ans: 22006879
+true ans: 22006879
+running time: 0.0087 s
+
+
+=====number of threads: 1, size of arr: 8 x 10 ^ 6=====
+ans: 43993787
+true ans: 43993787
+running time: 0.0145 s
+
+
+=====number of threads: 1, size of arr: 16 x 10 ^ 6=====
+ans: 88006747
+true ans: 88006747
+running time: 0.0288 s
+
+
+=====number of threads: 1, size of arr: 32 x 10 ^ 6=====
+ans: 176008422
+true ans: 176008422
+running time: 0.0629 s
+
+
+=====number of threads: 1, size of arr: 64 x 10 ^ 6=====
+ans: 351986811
+true ans: 351986811
+running time: 0.1154 s
+
+
+=====number of threads: 1, size of arr: 128 x 10 ^ 6=====
+ans: 704024110
+true ans: 704024110
+running time: 0.2309 s
+
+
+=====number of threads: 2, size of arr: 1 x 10 ^ 6=====
+ans: 5494117
+true ans: 5494117
+running time: 0.0011 s
+
+
+=====number of threads: 2, size of arr: 2 x 10 ^ 6=====
+ans: 11003298
+true ans: 11003298
+running time: 0.0026 s
+
+
+=====number of threads: 2, size of arr: 4 x 10 ^ 6=====
+ans: 22006566
+true ans: 22006566
+running time: 0.0038 s
+
+
+=====number of threads: 2, size of arr: 8 x 10 ^ 6=====
+ans: 44006081
+true ans: 44006081
+running time: 0.0082 s
+
+
+=====number of threads: 2, size of arr: 16 x 10 ^ 6=====
+ans: 87986323
+true ans: 87986323
+running time: 0.0143 s
+
+
+=====number of threads: 2, size of arr: 32 x 10 ^ 6=====
+ans: 176006119
+true ans: 176006119
+running time: 0.0319 s
+
+
+=====number of threads: 2, size of arr: 64 x 10 ^ 6=====
+ans: 351980628
+true ans: 351980628
+running time: 0.0600 s
+
+
+=====number of threads: 2, size of arr: 128 x 10 ^ 6=====
+ans: 703989397
+true ans: 703989397
+running time: 0.1198 s
+
+
+=====number of threads: 4, size of arr: 1 x 10 ^ 6=====
+ans: 5504714
+true ans: 5504714
+running time: 0.0007 s
+
+
+=====number of threads: 4, size of arr: 2 x 10 ^ 6=====
+ans: 11000919
+true ans: 11000919
+running time: 0.0013 s
+
+
+=====number of threads: 4, size of arr: 4 x 10 ^ 6=====
+ans: 22002303
+true ans: 22002303
+running time: 0.0034 s
+
+
+=====number of threads: 4, size of arr: 8 x 10 ^ 6=====
+ans: 44019843
+true ans: 44019843
+running time: 0.0044 s
+
+
+=====number of threads: 4, size of arr: 16 x 10 ^ 6=====
+ans: 87988411
+true ans: 87988411
+running time: 0.0082 s
+
+
+=====number of threads: 4, size of arr: 32 x 10 ^ 6=====
+ans: 176014079
+true ans: 176014079
+running time: 0.0177 s
+
+
+=====number of threads: 4, size of arr: 64 x 10 ^ 6=====
+ans: 351995651
+true ans: 351995651
+running time: 0.0300 s
+
+
+=====number of threads: 4, size of arr: 128 x 10 ^ 6=====
+ans: 704005336
+true ans: 704005336
+running time: 0.0628 s
+
+
+=====number of threads: 8, size of arr: 1 x 10 ^ 6=====
+ans: 5499298
+true ans: 5499298
+running time: 0.0007 s
+
+
+=====number of threads: 8, size of arr: 2 x 10 ^ 6=====
+ans: 11000448
+true ans: 11000448
+running time: 0.0017 s
+
+
+=====number of threads: 8, size of arr: 4 x 10 ^ 6=====
+ans: 21992308
+true ans: 21992308
+running time: 0.0032 s
+
+
+=====number of threads: 8, size of arr: 8 x 10 ^ 6=====
+ans: 43996904
+true ans: 43996904
+running time: 0.0064 s
+
+
+=====number of threads: 8, size of arr: 16 x 10 ^ 6=====
+ans: 88002005
+true ans: 88002005
+running time: 0.0120 s
+
+
+=====number of threads: 8, size of arr: 32 x 10 ^ 6=====
+ans: 175989863
+true ans: 175989863
+running time: 0.0217 s
+
+
+=====number of threads: 8, size of arr: 64 x 10 ^ 6=====
+ans: 352020810
+true ans: 352020810
+running time: 0.0313 s
+
+
+=====number of threads: 8, size of arr: 128 x 10 ^ 6=====
+ans: 703994925
+true ans: 703994925
+running time: 0.0634 s
+
+
+=====number of threads: 16, size of arr: 1 x 10 ^ 6=====
+ans: 5496792
+true ans: 5496792
+running time: 0.0009 s
+
+
+=====number of threads: 16, size of arr: 2 x 10 ^ 6=====
+ans: 11002477
+true ans: 11002477
+running time: 0.0015 s
+
+
+=====number of threads: 16, size of arr: 4 x 10 ^ 6=====
+ans: 22002873
+true ans: 22002873
+running time: 0.0025 s
+
+
+=====number of threads: 16, size of arr: 8 x 10 ^ 6=====
+ans: 43998649
+true ans: 43998649
+running time: 0.0041 s
+
+
+=====number of threads: 16, size of arr: 16 x 10 ^ 6=====
+ans: 87997781
+true ans: 87997781
+running time: 0.0076 s
+
+
+=====number of threads: 16, size of arr: 32 x 10 ^ 6=====
+ans: 175972457
+true ans: 175972457
+running time: 0.0165 s
+
+
+=====number of threads: 16, size of arr: 64 x 10 ^ 6=====
+ans: 351952398
+true ans: 351952398
+running time: 0.0341 s
+
+
+=====number of threads: 16, size of arr: 128 x 10 ^ 6=====
+ans: 704000532
+true ans: 704000532
+running time: 0.0615 s

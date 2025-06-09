@@ -1,0 +1,435 @@
+==================================================  
+Spatial grid of 128 by 128 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              1
+
+  MEAN = 74.803150
+
+ Iteration  Change
+
+         1  18.700787
+         2  9.350394
+         4  4.090797
+         8  2.285094
+        16  1.134379
+        32  0.567089
+        64  0.282251
+       128  0.141499
+       256  0.070669
+       512  0.035312
+      1024  0.016766
+      2048  0.006083
+      4096  0.001103
+
+      4219  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 5.269990
+==================================================  
+Spatial grid of 128 by 128 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              2
+
+  MEAN = 74.803150
+
+ Iteration  Change
+
+         1  18.700787
+         2  9.350394
+         4  4.090797
+         8  2.285094
+        16  1.134379
+        32  0.567089
+        64  0.282251
+       128  0.141499
+       256  0.070669
+       512  0.035312
+      1024  0.016766
+      2048  0.006083
+      4096  0.001103
+
+      4219  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 5.494646
+==================================================  
+Spatial grid of 128 by 128 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              4
+
+  MEAN = 74.803150
+
+ Iteration  Change
+
+         1  18.700787
+         2  9.350394
+         4  4.090797
+         8  2.285094
+        16  1.134379
+        32  0.567089
+        64  0.282251
+       128  0.141499
+       256  0.070669
+       512  0.035312
+      1024  0.016766
+      2048  0.006083
+      4096  0.001103
+
+      4219  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 6.689874
+==================================================  
+Spatial grid of 128 by 128 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              8
+
+  MEAN = 74.803150
+
+ Iteration  Change
+
+         1  18.700787
+         2  9.350394
+         4  4.090797
+         8  2.285094
+        16  1.134379
+        32  0.567089
+        64  0.282251
+       128  0.141499
+       256  0.070669
+       512  0.035312
+      1024  0.016766
+      2048  0.006083
+      4096  0.001103
+
+      4219  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 10.216731
+==================================================  
+Spatial grid of 128 by 128 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              16
+
+  MEAN = 74.803150
+
+ Iteration  Change
+
+         1  18.700787
+         2  9.350394
+         4  4.090797
+         8  2.285094
+        16  1.134379
+        32  0.567089
+        64  0.282251
+       128  0.141499
+       256  0.070669
+       512  0.035312
+      1024  0.016766
+      2048  0.006083
+      4096  0.001103
+
+      4219  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 17.051038
+==================================================  
+Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              1
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 40.662345
+==================================================  
+Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              2
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 42.087406
+==================================================  
+Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              4
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 45.052822
+==================================================  
+Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              8
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 53.678888
+==================================================  
+Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              16
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 72.540261
+==================================================  
+Spatial grid of 512 by 512 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              1
+
+  MEAN = 74.951076
+
+ Iteration  Change
+
+         1  18.737769
+         2  9.368885
+         4  4.098887
+         8  2.289613
+        16  1.136622
+        32  0.568210
+        64  0.282809
+       128  0.141779
+       256  0.070809
+       512  0.035428
+      1024  0.017708
+      2048  0.008856
+      4096  0.004428
+      8192  0.002211
+     16384  0.001053
+
+     17103  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 260.597808
+==================================================  
+Spatial grid of 512 by 512 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              2
+
+  MEAN = 74.951076
+
+ Iteration  Change
+
+         1  18.737769
+         2  9.368885
+         4  4.098887
+         8  2.289613
+        16  1.136622
+        32  0.568210
+        64  0.282809
+       128  0.141779
+       256  0.070809
+       512  0.035428
+      1024  0.017708
+      2048  0.008856
+      4096  0.004428
+      8192  0.002211
+     16384  0.001053
+
+     17103  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 261.838314
+==================================================  
+Spatial grid of 512 by 512 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              4
+
+  MEAN = 74.951076
+
+ Iteration  Change
+
+         1  18.737769
+         2  9.368885
+         4  4.098887
+         8  2.289613
+        16  1.136622
+        32  0.568210
+        64  0.282809
+       128  0.141779
+       256  0.070809
+       512  0.035428
+      1024  0.017708
+      2048  0.008856
+      4096  0.004428
+      8192  0.002211
+     16384  0.001053
+
+     17103  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 277.389663
+==================================================  
+Spatial grid of 512 by 512 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              8
+
+  MEAN = 74.951076
+
+ Iteration  Change
+
+         1  18.737769
+         2  9.368885
+         4  4.098887
+         8  2.289613
+        16  1.136622
+        32  0.568210
+        64  0.282809
+       128  0.141779
+       256  0.070809
+       512  0.035428
+      1024  0.017708
+      2048  0.008856
+      4096  0.004428
+      8192  0.002211
+     16384  0.001053
+
+     17103  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 285.822854
+==================================================  
+Spatial grid of 512 by 512 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 4
+  Number of threads =              16
+
+  MEAN = 74.951076
+
+ Iteration  Change
+
+         1  18.737769
+         2  9.368885
+         4  4.098887
+         8  2.289613
+        16  1.136622
+        32  0.568210
+        64  0.282809
+       128  0.141779
+       256  0.070809
+       512  0.035428
+      1024  0.017708
+      2048  0.008856
+      4096  0.004428
+      8192  0.002211
+     16384  0.001053
+
+     17103  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 313.267893

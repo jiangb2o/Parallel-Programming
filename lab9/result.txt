@@ -1,0 +1,96 @@
+==========matrix size: 512 x  512, block size: 4 x 4, mode: normal==========
+Correct
+Running time: 0.066624 ms
+
+==========matrix size:1024 x 1024, block size: 4 x 4, mode: normal==========
+Correct
+Running time: 0.208256 ms
+
+==========matrix size:2048 x 2048, block size: 4 x 4, mode: normal==========
+Correct
+Running time: 0.777856 ms
+
+==========matrix size: 512 x  512, block size: 8 x 8, mode: normal==========
+Correct
+Running time: 0.049152 ms
+
+==========matrix size:1024 x 1024, block size: 8 x 8, mode: normal==========
+Correct
+Running time: 0.147008 ms
+
+==========matrix size:2048 x 2048, block size: 8 x 8, mode: normal==========
+Correct
+Running time: 0.509088 ms
+
+==========matrix size: 512 x  512, block size: 16 x 16, mode: normal==========
+Correct
+Running time: 0.075872 ms
+
+==========matrix size:1024 x 1024, block size: 16 x 16, mode: normal==========
+Correct
+Running time: 0.26112 ms
+
+==========matrix size:2048 x 2048, block size: 16 x 16, mode: normal==========
+Correct
+Running time: 0.928672 ms
+
+==========matrix size: 512 x  512, block size: 32 x 32, mode: normal==========
+Correct
+Running time: 0.076992 ms
+
+==========matrix size:1024 x 1024, block size: 32 x 32, mode: normal==========
+Correct
+Running time: 0.254144 ms
+
+==========matrix size:2048 x 2048, block size: 32 x 32, mode: normal==========
+Correct
+Running time: 0.93904 ms
+
+==========matrix size: 512 x  512, block size: 4 x 4, mode: shared==========
+Correct
+Running time: 0.077184 ms
+
+==========matrix size:1024 x 1024, block size: 4 x 4, mode: shared==========
+Correct
+Running time: 0.299968 ms
+
+==========matrix size:2048 x 2048, block size: 4 x 4, mode: shared==========
+Correct
+Running time: 1.16198 ms
+
+==========matrix size: 512 x  512, block size: 8 x 8, mode: shared==========
+Correct
+Running time: 0.05376 ms
+
+==========matrix size:1024 x 1024, block size: 8 x 8, mode: shared==========
+Correct
+Running time: 0.169056 ms
+
+==========matrix size:2048 x 2048, block size: 8 x 8, mode: shared==========
+Correct
+Running time: 0.624128 ms
+
+==========matrix size: 512 x  512, block size: 16 x 16, mode: shared==========
+Correct
+Running time: 0.079136 ms
+
+==========matrix size:1024 x 1024, block size: 16 x 16, mode: shared==========
+Correct
+Running time: 0.274848 ms
+
+==========matrix size:2048 x 2048, block size: 16 x 16, mode: shared==========
+Correct
+Running time: 0.980096 ms
+
+==========matrix size: 512 x  512, block size: 32 x 32, mode: shared==========
+Correct
+Running time: 0.08064 ms
+
+==========matrix size:1024 x 1024, block size: 32 x 32, mode: shared==========
+Correct
+Running time: 0.28912 ms
+
+==========matrix size:2048 x 2048, block size: 32 x 32, mode: shared==========
+Correct
+Running time: 1.05901 ms
+

@@ -1,0 +1,195 @@
+========== matrix size: 128 x  128, block size: 8 x 8 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.277568 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.11024 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.075616 ms
+
+========== matrix size: 128 x  128, block size: 16 x 16 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.240096 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.05824 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.083104 ms
+
+========== matrix size: 128 x  128, block size: 32 x 32 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.210176 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.061504 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.0944 ms
+
+========== matrix size: 256 x  256, block size: 8 x 8 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.958208 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.5768 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.378464 ms
+
+========== matrix size: 256 x  256, block size: 16 x 16 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.666656 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.272832 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.301856 ms
+
+========== matrix size: 256 x  256, block size: 32 x 32 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 0.657824 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 0.231776 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 0.435968 ms
+
+========== matrix size: 512 x  512, block size: 8 x 8 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 6.5856 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 4.19974 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 2.66966 ms
+
+========== matrix size: 512 x  512, block size: 16 x 16 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 4.33056 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 1.91798 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 2.09459 ms
+
+========== matrix size: 512 x  512, block size: 32 x 32 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 3.30912 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 1.60483 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 2.76493 ms
+
+========== matrix size:1024 x 1024, block size: 8 x 8 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 52.4293 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 34.1861 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 23.2854 ms
+
+========== matrix size:1024 x 1024, block size: 16 x 16 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 33.7877 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 14.9572 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 17.5248 ms
+
+========== matrix size:1024 x 1024, block size: 32 x 32 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 24.634 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 12.3752 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 21.4005 ms
+
+========== matrix size:2048 x 2048, block size: 8 x 8 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 387.854 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 223.242 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 134.938 ms
+
+========== matrix size:2048 x 2048, block size: 16 x 16 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 258.972 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 100.672 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 111.385 ms
+
+========== matrix size:2048 x 2048, block size: 32 x 32 ==========
+Mode: Global Memory
+verify successfully!
+CUDA Running time: 196.346 ms
+
+Mode: Shared Memory
+verify successfully!
+CUDA Running time: 90.9498 ms
+
+Mode: Loop Unrolling
+verify successfully!
+CUDA Running time: 149.269 ms
+
